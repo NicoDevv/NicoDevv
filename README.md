@@ -10,8 +10,6 @@
 - 🌱 I’m currently learning **Cybersecurity and Django**
 
 - 💬 Ask me about **Python, Discord API**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
