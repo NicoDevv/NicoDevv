@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Buincraft](https://github.com/BuinCraft-MC)
 
-- 🌱 I’m currently learning **Cybersecurity, Django**
+- 🌱 I’m currently learning **Cybersecurity and Django**
 
 - 💬 Ask me about **Python, Discord API**
 
