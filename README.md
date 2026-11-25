@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
 <h3 align="center">An Italian Web Developer & Cybersecurity Student</h3>
-<img aling = "right" alt = "fsociety" width = "400" src = "https://media.tenor.com/2rbXXbmEAjMAAAAd/fsociety-code.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicodevv&label=Profile%20views&color=0e75b6&style=flat" alt="nicodevv" /> </p>
